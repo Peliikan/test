@@ -1,10 +1,14 @@
 {
-    "XFQT-UJM7-XFOS-82MV": {
-        "id": "655316ae-55b5-11ee-bdc2-b46bfc38b327",
-        "expire": "18.10.2023"
+    "WZ3UD-ADZH8-MFYJB-RUGM3-J37TX": {
+        "id": "1",
+        "expire": "30.12.2022"
     },
-    "FN6D-UPNG-NGH7-PPP4": {
-        "id": "69a9ab43-55b5-11ee-b0ad-b46bfc38b327",
-        "expire": "18.10.2023"
+    "test": {
+        "id": "2",
+        "expire": "09.09.2000"
+    },
+    "pest": {
+        "id": "3",
+        "expire": "30.09.2023"
     }
-} 
+}
