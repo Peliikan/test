@@ -1,14 +1,12 @@
-{
-    "WZ3UD-ADZH8-MFYJB-RUGM3-J37TX": {
-	    "id": "1",
-		"expire": "30.12.2022"
+[
+    {
+        "id": "e6554315-55b3-11ee-a526-b46bfc38b327",
+        "license_key": "XAEG-6NJM-SZ24-C9J4",
+        "expire": "18.10.2023"
     },
-    "test": {
-        "id": "2",
-        "expire": "09.09.2000"
-    },
-	"pest": {
-        "id": "3",
-        "expire": "30.09.2023"
+    {
+        "id": "e908a07b-55b3-11ee-bfa5-b46bfc38b327",
+        "license_key": "ITSH-G5HO-DB2V-TKOV",
+        "expire": "18.10.2023"
     }
-}
+]
